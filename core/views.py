@@ -54,7 +54,7 @@ def crear_servicio(request):
             nuevo = form.save(commit=False)
             nuevo.propietario = request.user
             nuevo.save()
-            return redirect('servicios')
+            return redirect('detalle_servicio', pk=nuevo.pk)
     else:
         form = ServicioForm()
 
