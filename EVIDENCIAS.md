@@ -16,7 +16,7 @@ Render: https://u4p3-prado-diaz-bernardo.onrender.com
 | 5  | Paso 05: SQL de los 2 índices (sqlmigrate)         | 00:23:04 | evidencias/05-indices.png        |
 | 6  | Paso 06: /admin con Categorias, Facturas, Servicios| 00:26:00 | evidencias/06-admin.png          |
 | 7  | Paso 08: explico las 6 consultas de reportes.py    | 00:30:52 | —                                |
-| 8  | Paso 12: cargar_demo con tu usuario                | 00:00:20 | evidencias/12-cargar-demo.png    |
+| 8  | Paso 12: cargar_demo con tu usuario                | 00:36:09 | evidencias/12-cargar-demo.png    |
 | 9  | Paso 13: aviso rojo al borrar categoría con servicios |       | evidencias/13-categoria-aviso.png|
 | 10 | Paso 13: factura con 2 renglones y su total        | 00:00:20 | evidencias/13-factura.png        |
 | 11 | Paso 13: reportes 3 y 6 con empates en verde       | 00:00:20 | evidencias/13-reporte3.png y 13-reporte6.png |
